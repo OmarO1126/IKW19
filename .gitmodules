@@ -28,3 +28,6 @@
 [submodule "custom_addons/priority_dispatch"]
 	path = custom_addons/priority_dispatch
 	url = git@github.com:businessinsights-mx/priority_dispatch.git
+[submodule "custom_addons/status_backorder"]
+	path = custom_addons/status_backorder
+	url = git@github.com:businessinsights-mx/status_backorder.git
