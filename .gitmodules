@@ -22,3 +22,6 @@
 [submodule "custom_addons/pricelist_cascade"]
 	path = custom_addons/pricelist_cascade
 	url = git@github.com:businessinsights-mx/pricelist_cascade.git
+[submodule "custom_addons/sales_order_button_pickings_ikw"]
+	path = custom_addons/sales_order_button_pickings_ikw
+	url = git@github.com:businessinsights-mx/sales_order_button_pickings_ikw.git
