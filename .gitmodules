@@ -31,3 +31,6 @@
 [submodule "custom_addons/status_backorder"]
 	path = custom_addons/status_backorder
 	url = git@github.com:businessinsights-mx/status_backorder.git
+[submodule "custom_addons/stock_picking_surtido_responsible"]
+	path = custom_addons/stock_picking_surtido_responsible
+	url = git@github.com:businessinsights-mx/stock_picking_surtido_responsible.git
