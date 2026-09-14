@@ -13,3 +13,6 @@
 [submodule "custom_addons/credit_note"]
 	path = custom_addons/credit_note
 	url = git@github.com:businessinsights-mx/credit_note.git
+[submodule "custom_addons/ikw_picking_report"]
+	path = custom_addons/ikw_picking_report
+	url = git@github.com:businessinsights-mx/ikw_picking_report.git
