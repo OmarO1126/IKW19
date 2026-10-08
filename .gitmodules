@@ -31,3 +31,6 @@
 [submodule "custom_addons/account_advance_l10n_mx"]
 	path = custom_addons/account_advance_l10n_mx
 	url = git@github.com:businessinsights-mx/account_advance_l10n_mx.git
+[submodule "custom_addons/account_payment_ignore_sat"]
+	path = custom_addons/account_payment_ignore_sat
+	url = git@github.com:businessinsights-mx/account_payment_ignore_sat.git
