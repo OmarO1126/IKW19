@@ -34,3 +34,6 @@
 [submodule "custom_addons/account_payment_ignore_sat"]
 	path = custom_addons/account_payment_ignore_sat
 	url = git@github.com:businessinsights-mx/account_payment_ignore_sat.git
+[submodule "custom_addons/sale_library_consignment"]
+	path = custom_addons/sale_library_consignment
+	url = git@github.com:businessinsights-mx/sale_library_consignment.git
