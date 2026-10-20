@@ -37,3 +37,6 @@
 [submodule "custom_addons/sale_library_consignment"]
 	path = custom_addons/sale_library_consignment
 	url = git@github.com:businessinsights-mx/sale_library_consignment.git
+[submodule "custom_addons/addenda_mx"]
+	path = custom_addons/addenda_mx
+	url = git@github.com:businessinsights-mx/addenda_mx.git
