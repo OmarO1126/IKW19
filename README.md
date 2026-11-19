@@ -1,3 +1,3 @@
 # IKW19
 ## Proyecto de Implementación Odoo
-- Limpieza/ajuste de etiquetas en campos personalizados (`account.move` / `studio_customization`)
+- Limpieza/ajuste de etiquetas en campos personalizados
