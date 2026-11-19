@@ -1,3 +1,3 @@
 # IKW19
 ## Proyecto de Implementación Odoo
-actualizado 25sep2026
+- Limpieza/ajuste de etiquetas en campos personalizados
