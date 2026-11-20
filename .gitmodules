@@ -40,3 +40,6 @@
 [submodule "custom_addons/addenda_mx"]
 	path = custom_addons/addenda_mx
 	url = git@github.com:businessinsights-mx/addenda_mx.git
+[submodule "custom_addons/bizin_collection_commissions"]
+	path = custom_addons/bizin_collection_commissions
+	url = git@github.com:businessinsights-mx/bizin_collection_commissions.git
