@@ -43,3 +43,6 @@
 [submodule "custom_addons/bizin_collection_commissions"]
 	path = custom_addons/bizin_collection_commissions
 	url = git@github.com:businessinsights-mx/bizin_collection_commissions.git
+[submodule "custom_addons/stock_picking_return_credit_note"]
+	path = custom_addons/stock_picking_return_credit_note
+	url = git@github.com:businessinsights-mx/stock_picking_return_credit_note.git
